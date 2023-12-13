@@ -10,6 +10,7 @@ My journey in data science has been marked by a blend of rigorous academic train
 2. Experiment Research in Wuhan University with Prof. Shuo Yang: A/B testing, Bootstrap, Experiment Design
 3. GPS Trajetory Data and Social Connection Research: large-scale data imputing (BigQuery), network analysis, NLP, Bayes, GIS and Spatial Analysis
 4. Marketing Analysis Project: Game Theory
+5. World Resources Institute Intern: Data Visualization
 
 
 ## 🔍 Areas of Interest
