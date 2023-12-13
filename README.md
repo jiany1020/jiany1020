@@ -1,27 +1,35 @@
-Hello, I'm Yue Jiane👋
-#🚀 About Me
-I'm a budding data scientist currently pursuing a Master's in Computational Analysis and Public Policy at The University of Chicago. With a passion for transforming complex data into actionable insights, I specialize in machine learning, statistical analysis, and policy-driven data interpretation.
+Hello, I'm Yue Jian👋
 
-📊 My Data Science Journey
+## 🚀 About Me
+I'm a budding data enthusiast and product lover currently pursuing a Master's in Computational Analysis and Public Policy at The University of Chicago. With a passion for transforming complex data into actionable insights, I specialize in machine learning, statistical analysis, and policy-driven data interpretation.
+
+## 📊 My Data Science Journey
 My journey in data science has been marked by a blend of rigorous academic training and hands-on experience. Here's a snapshot of my path so far:
 
-Educational Background: A solid foundation in Python programming, advanced statistics, and machine learning from my master's program, coupled with a B.A. in Philosophy, Politics, and Economics from Wuhan University.
-Professional Experience: At ByteDance, I honed my skills in user experience analysis, leading to significant improvements in product strategies. My stint at Publicis Groupe as a Data Scientist Intern involved leveraging SQL for data cleaning and creating impactful Tableau dashboards.
-🔍 Areas of Interest
-Statistical Inference and A/B Testing: Fascinated by the power of data to make informed decisions.
-Machine Learning Applications: Keen on developing models that can predict and inform policy decisions.
-Public Policy Analysis: Combining data science with public policy to influence and improve community outcomes.
-🌱 What I'm Learning Now
-Advanced Techniques in Machine Learning: Continually upgrading my ML skills to stay at the forefront of technology.
-GIS and Spatial Analysis: Exploring the role of geographic data in policy making and urban planning.
-🤝 Collaborate with Me
+1. ByteDance Monetization Intern: User Satisfaction Research, Metrics Defining
+2. Experiment Research in Wuhan University with Prof. Shuo Yang: A/B testing, Bootstrap, Experiment Design
+3. GPS Trajetory Data and Social Connection Research: large-scale data imputing (BigQuery), network analysis, NLP, Bayes, GIS and Spatial Analysis
+4. Marketing Analysis Project: Game Theory
+
+
+## 🔍 Areas of Interest
+1. Statistical Inference and A/B Testing: Fascinated by the power of data to make informed decisions.
+2. Machine Learning Applications: Keen on developing models that can predict and inform decisions making.
+3. Public Policy Analysis: Combining data science with public policy to influence and improve community outcomes.
+4. Behavioral and Experimental Economics: Conducting research about how social information and mechanism design can influence one's decisions
+
+## 🌱 What I'm Learning Now
+1. Advanced Techniques in Machine Learning: Continually upgrading my ML skills to stay at the forefront of technology.
+2. Front-end Design: Designing amazing and user-friendly products interfaces
+
+## 🤝 Collaborate with Me
 I'm always open to collaborating on projects that leverage data for social good, particularly in areas intersecting public policy and technology. If you're working on something where my background and skills could be of use, let's connect!
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 Feel free to reach out for collaborations or just a chat about data science and its role in public policy:
 
-Email: [Your Email]
-LinkedIn: [Your LinkedIn Profile]
+Email: [yueyyy616@gmail.com]
+LinkedIn: [www.linkedin.com/in/1yuejian]
 
 <!---
 jiany1020/jiany1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
