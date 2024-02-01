@@ -9,8 +9,9 @@ My journey in data science has been marked by a blend of rigorous academic train
 1. ByteDance Monetization Intern: User Satisfaction Research, Metrics Defining
 2. Experiment Research in Wuhan University with Prof. Shuo Yang: A/B testing, Bootstrap, Experiment Design
 3. [GPS Trajetory Data and Social Connection Research](https://github.com/jiany1020/GPS-Data-Analysis): large-scale data imputing (BigQuery), network analysis, NLP, Bayes, GIS and Spatial Analysis
-4. Marketing Analysis Project: Game Theory
-5. World Resources Institute Intern: Data Visualization
+4. Natural Langauge Processing: build a text comment classifier to predict the violation rate
+5. Marketing Analysis Project: Game Theory
+6. World Resources Institute Intern: Data Visualization
 
 
 ## 🔍 Areas of Interest
