@@ -26,11 +26,6 @@ My journey in data science has been marked by a blend of rigorous academic train
 ## 🤝 Collaborate with Me
 I'm always open to collaborating on projects that leverage data for social good, particularly in areas intersecting public policy and technology. If you're working on something where my background and skills could be of use, let's connect!
 
-## 📫 How to Reach Me
-Feel free to reach out for collaborations or just a chat about data science and its role in public policy:
-
-Email: [yueyyy616@gmail.com]
-LinkedIn: [www.linkedin.com/in/1yuejian]
 
 <!---
 jiany1020/jiany1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
